@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+Folks;I'm+Siddhant+Latiyan)](https://git.io/typing-svg)
+
 ## Hi there 👋, I'm Siddhant Latiyan
 
 <h4>Hi! My name is Siddhant Latiyan and I am an independent and self-motivated individual with proven ability and experience in Data Analytics projects. So far I have worked on numerous projects and dataset analysis, Time Series Forecasting. I have also picked up several handy skills like SQL, Python and so on that enhances my skill in the field of data analytics.</h4>
