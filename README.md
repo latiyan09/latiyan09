@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/siddhant-latiyan/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/siddhantlatiyan)
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/latiyan09)
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@siddhantlatiyan099)
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/siddhant.latiyan5099)
+[![Github](https://img.shields.io/badge/-Medium-181717?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@siddhantlatiyan099)
+[![Github](https://img.shields.io/badge/-Tableau-181717?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/siddhant.latiyan5099)
