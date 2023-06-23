@@ -22,7 +22,7 @@
 ### 🛠 &nbsp; **Tech Stack:**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tablueau-333333?style=flat&logo=Tableau)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)\
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=1572B6)&nbsp;
