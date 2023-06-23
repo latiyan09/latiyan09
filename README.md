@@ -19,7 +19,7 @@
 [![Github](https://img.shields.io/badge/-Medium-181717?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@siddhantlatiyan099)
 [![Github](https://img.shields.io/badge/-Tableau-181717?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/siddhant.latiyan5099)
 
-### 🛠 &nbsp; **Tech Stack**
+### 🛠 &nbsp; **Tech Stack:**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
