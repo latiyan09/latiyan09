@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Siddhant Latiyan
 
+<h3 align="center">Hi! My name is Siddhant Latiyan and I am an independent and self-motivated individual with proven ability and experience in Data Analytics projects. So far I have worked on numerous projects and dataset analysis, Time Series Forecasting. I have also picked up several handy skills like SQL, Python and so on that enhances my skill in the field of data analytics.</h3>
+
 ## Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Inventory Management Projects
