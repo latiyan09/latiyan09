@@ -20,7 +20,6 @@
 [![Tableau](https://img.shields.io/badge/-Tableau-181717?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/siddhant.latiyan5099)
 
 ### 🛠 &nbsp; **Tech Stack:**
-
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tablueau-333333?style=flat&logo=Tableau)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)\
