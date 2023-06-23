@@ -21,7 +21,7 @@
 
 ### 🛠 &nbsp; **Tech Stack:**
 
-.![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Java Script](https://img.shields.io/badge/-Java%20Script-333333?style=flat&logo=JavaScript&logoColor=F7DF1E)&nbsp;\
 ![TensorFlow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=TensorFlow)&nbsp;
