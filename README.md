@@ -25,11 +25,10 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)\
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)\
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![Lightroom](https://img.shields.io/badge/-Lightroom-333333?style=flat&logo=adobe-lightroom)
