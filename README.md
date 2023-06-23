@@ -16,8 +16,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/siddhant-latiyan/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/siddhantlatiyan)
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/latiyan09)
-[![Github](https://img.shields.io/badge/-Medium-181717?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@siddhantlatiyan099)
-[![Github](https://img.shields.io/badge/-Tableau-181717?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/siddhant.latiyan5099)
+[![Medium](https://img.shields.io/badge/-Medium-181717?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@siddhantlatiyan099)
+[![Tableau](https://img.shields.io/badge/-Tableau-181717?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/siddhant.latiyan5099)
 
 ### 🛠 &nbsp; **Tech Stack:**
 
@@ -29,9 +29,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)\
-![MySql](https://img.shields.io/badge/-Postgre-333333?style=flat&logo=MySQL)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro)&nbsp;
 ![Lightroom](https://img.shields.io/badge/-Lightroom-333333?style=flat&logo=adobe-lightroom)
