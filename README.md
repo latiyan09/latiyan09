@@ -8,7 +8,7 @@
 - 📫 How to reach me: siddhantlatiyan099@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Making Data talk for themselves with help of Visuals
--->
+- 
 <!-- 🌐 This code displays a section labeled "Let's connect" with badges representing social media and email accounts. The section is accompanied by a gif of a waving hand, which adds a friendly and welcoming tone. The badges use the shields.io service to display logos and colors representing each platform, including Gmail, LinkedIn, Twitter, and Github. The badges are displayed in a for-the-badge style, which provides a consistent visual style across all badges. This code is useful for allowing users to quickly connect with the developer on various platforms, and it can be easily modified to include additional badges for other social media platforms or contact information. -->
 
 
