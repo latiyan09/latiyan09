@@ -25,6 +25,8 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tablueau-333333?style=flat&logo=Tableau)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)\
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=NumPy)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)\
@@ -32,4 +34,4 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)&nbsp;
+
