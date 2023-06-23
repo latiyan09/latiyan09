@@ -32,3 +32,4 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)&nbsp;
