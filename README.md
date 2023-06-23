@@ -27,8 +27,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)\
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=NumPy)&nbsp;
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=NumPy)&nbsp;
-![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=Seaborn&logoColor=1572B6)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=Matplotlib)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)\
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)&nbsp;
