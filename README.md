@@ -16,12 +16,14 @@
 
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's connect:** ️
+[![Tableau](https://img.shields.io/badge/-Tableau-181717?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/siddhant.latiyan5099)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhantlatiyan099@gmail.com)
+[![Medium](https://img.shields.io/badge/-Medium-181717?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@siddhantlatiyan099)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/siddhant-latiyan/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/siddhantlatiyan)
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/latiyan09)
-[![Medium](https://img.shields.io/badge/-Medium-181717?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@siddhantlatiyan099)
-[![Tableau](https://img.shields.io/badge/-Tableau-181717?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/siddhant.latiyan5099)
+
+
 
 ### 🛠 &nbsp; **Tech Stack:**
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
